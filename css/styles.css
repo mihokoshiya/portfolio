@@ -677,6 +677,7 @@ img {
 
 .contact__form-area textarea {
     resize: none;
+    padding-bottom: 0;
 }
 
 .contact__button {
@@ -961,9 +962,5 @@ img {
 
     .swiper-container-horizontal>.swiper-pagination-bullets {
         bottom: -4.5rem;
-    }
-
-    .contact__form-area textarea {
-        padding-bottom: 0;
     }
 }
