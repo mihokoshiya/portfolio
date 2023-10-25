@@ -540,11 +540,10 @@ img {
 /*====================== PROJECTS ======================*/
 .projects__container {
     overflow: initial;
-    margin: 1.5rem;
 }
 
 .projects__content {
-    padding: 0;
+    padding: 0 1.5rem;
 }
 
 .projects__img {
